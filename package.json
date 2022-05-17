@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-execute-on-website",
+  "name": "youtube-bfree",
   "version": "1.0.3",
-  "description": "Access JS on web pages directly through Chrome extensions",
+  "description": "Show how many dislikes the youtube video has and autoskip ads",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "extension",
     "javascript"
   ],
-  "author": "Eliran Pe'er (eliran013@gmail.com)",
+  "author": "Anthony Caro",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Anthony-Caro/youtube.git"
